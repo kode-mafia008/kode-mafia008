@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kode-mafia008.
-- 👀 I’m interested in AI, Deep Learning & Data Science.
-- 🌱 I’m currently learning AI and Machine Learning.
-- 💞️ I’m looking to collaborate on Flutter & NodeJS/NextJS/Angular/Django/ML.
+- 👀 I’m interested in Machine Learning & Deep Learning.
+- 🌱 I’m currently learning Machine Learning & Deep Learning.
+- 💞️ I’m looking to collaborate on Flutter & Django/ML.
 - 📫 How to reach me https://www.linkedin.com/in/dharmendra-mehta-233047199/
 
 <!---
