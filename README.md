@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kode-mafia008.
 - 👀 I’m interested in Machine Learning & Deep Learning.
 - 🌱 I’m currently learning Machine Learning & Deep Learning.
-- 💞️ I’m looking to collaborate on Flutter & Django, ML.
+- 💞️ I’m looking to collaborate on Flutter & Django, Machine Learning & Deep Learning.
 - 📫 How to reach me https://www.linkedin.com/in/dharmendra-mehta-233047199/
 
 <!---
