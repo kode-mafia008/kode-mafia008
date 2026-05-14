@@ -1,146 +1,84 @@
-# 👋 Hi, I'm Dharmendra Mehta (@kode-mafia008)
+👋 Hi, I'm Dharmendra Mehta (@kode-mafia008) 
 
-🚀 **AI/ML Engineer | Cloud Architect**
+🚀 Full Stack AI/ML Engineer | Generative AI & Cloud Architect 
 
-I specialize in building **production-grade AI ecosystems**. My expertise lies in bridging the gap between complex Machine Learning models and scalable software architecture, with a heavy focus on **Agentic AI, RAG pipelines, and LLM optimization**. 
+I build **scalable AI-powered solutions** for startups and enterprises, focusing on **intelligent agents, LLM-driven systems, and production-grade applications**. With experience spanning from 2019 to the present , I bridge **AI, backend, and mobile development**  to deliver end-to-end solutions.
 
 ---
 
-## 👀 Focus Areas
+## 👀 Interests
 
-* 
-**Generative AI & LLMs:** Fine-tuning (LoRA), prompt engineering, and context window optimization. 
-
-
-* 
-**Agentic Workflows:** Designing multi-agent systems using LangChain and LangGraph. 
-
-
-* 
-**Vector Search & RAG:** Architecting retrieval systems using Weaviate, Pinecone, and FAISS. 
-
-
-* 
-**Data Engineering:** Real-time ETL pipelines with Apache Kafka and stream processing. 
+* **Machine Learning & Deep Learning** 
+* **Generative AI, LLMs & Agentic AI** 
+* **Retrieval-Augmented Generation (RAG)** 
+* **Scalable Backend & Cloud-native Architectures** 
 
 
 
 ---
 
-## 🌱 Current Technical Pursuits
-
-* Advanced **Deep Learning** and Neural Network architectures. 
-
-
-* Scaling **Multi-agent AI systems** for complex decision-making. 
-
-
-* Optimizing **LLM deployment** strategies on AWS SageMaker and Bedrock. 
-
-
+## 🌱 Currently Learning & Researching
+* Advanced **Machine Learning & Deep Learning** 
+* **Agentic AI frameworks** and multi-agent systems 
+* Large-scale **LLM optimization,finetuning & deployment** 
 
 ---
 
-## 💼 Expertise & Impact
+## 💼 What I Do
 
-* 
-**AI/ML Engineering:** Fine-tuned OpenChat 3.5 using LoRA/PyTorch; built recommendation engines for digital marketplaces. 
+* **LLM Integration & AI Development**
+* Designed RAG pipelines using LangChain and LangGraph.
+* Integrated Hugging Face Transformers and OpenAI APIs.
 
-
-* 
-**Backend Architecture:** Developed high-performance REST & GraphQL APIs using FastAPI, Django, and Hasura. 
-
-
-* 
-**Cloud & DevOps:** Designing scalable AWS/Azure infrastructure with automated CI/CD pipelines and Docker/Kubernetes orchestration. 
+* **Custom AI Model Development**
+* Fine-tuned OpenChat 3.5 using LoRA and PyTorch.
+* Developed recommendation systems for intelligent load matching.
 
 
-* 
-**Mobile Ecosystems:** End-to-end development and deployment of Flutter applications to App Store and Play Store. 
+* **Backend & Data Engineering**
+* Built robust APIs with Django and FastAPI.
+* Implemented real-time ETL pipelines using Apache Kafka.
+* Managed Weaviate, Pinecone, and FAISS vector databases.
 
+* **Cloud & DevOps**
+* Architected AWS (SageMaker, Bedrock, EC2) and Azure infrastructure.
+* Automated workflows with CI/CD pipelines and Docker/Kubernetes.
 
+* **Mobile Development**
+* Deployed cross-platform Flutter applications to App Store and Play Store.
 
+ 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages & Libraries**
 
-* Python, SQL, JavaScript, Dart, Bash 
-
-
-* PyTorch, TensorFlow, Scikit-Learn, Hugging Face Transformers 
-
-
+* Python, SQL, Dart, JavaScript, Bash 
+* PyTorch, TensorFlow, Scikit-Learn, SpaCy, NLTK 
 
 **AI & Frameworks**
-
 * LangChain, LangGraph, RAG, Agentic AI 
+* Django, FastAPI, Flask, React, NextJS, Flutter 
 
-
-* FastAPI, Django, Flask, React, NextJS, Flutter 
-
-
-
-**Data & Cloud**
-
-* 
-**Databases:** Weaviate, Pinecone, FAISS, PostgreSQL, MongoDB, Kafka 
-
-
-* 
-**DevOps:** AWS (SageMaker, Bedrock, EC2, S3), Azure, Docker, Kubernetes, CI/CD 
-
-
+**Cloud & Databases**
+* AWS, Microsoft Azure, GCP, Firebase 
+* Weaviate, Pinecone, FAISS, PostgreSQL, MongoDB, Kafka 
 
 ---
 
-## 🏗️ Featured Projects
-
-* 
-**FaxiApp:** Intelligent assistant with semantic search and memory-aware document retrieval. 
-
-
-* 
-**LoadZPro:** AI-powered freight marketplace using ML for intelligent load matching. 
-
-
-* 
-**InvestLab:** Real-time portfolio management with Kafka-driven ETL pipelines. 
-
-
+## 💞️ Open to Collaborate On
+* **Machine Learning & Deep Learning projects** 
+* **Generative AI / LLM-based systems** 
+* **Scalable AI-powered SaaS products** 
 
 ---
 
-## 💞️ Let's Collaborate On
-
-* 
-**Open-source LLM Research:** Fine-tuning and quantization strategies. 
-
-
-* 
-**AI-Driven SaaS:** Scaling intelligent agents from MVP to production. 
-
-
-* 
-**High-Frequency Data Systems:** Real-time analytics and stream processing. 
-
-
-
----
-
-## 📫 Connect With Me
-
+## 📫 How to Reach Me
 * 🔗 **LinkedIn:** [Dharmendra Mehta](https://www.linkedin.com/in/dharmendra-mehta-233047199/) 
-
-
 * 📧 **Email:** dharmendramehta622@gmail.com 
-
-
-* 📍 **Location:** Kathmandu, Nepal 
-
-
+* 📍 **Location:**  Kathmandu, Nepal 
 
 ---
 
-⭐ *Passionate about turning research-level AI into production-ready reality.*
+⭐ *Passionate about turning complex AI research into production-ready reality.*
