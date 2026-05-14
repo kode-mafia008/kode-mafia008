@@ -26,28 +26,28 @@ I build **scalable AI-powered solutions** for startups and enterprises, focusing
 
 ## 💼 What I Do
 
-* ***LLM Integration & AI Development**
+*** **LLM Integration & AI Development**
 * Designed RAG pipelines using LangChain and LangGraph.
 * Integrated Hugging Face Transformers and OpenAI APIs.
 
 
-* ***Custom AI Model Development**
+*** **Custom AI Model Development**
 * Fine-tuned OpenChat 3.5 using LoRA and PyTorch.
 * Developed recommendation systems for intelligent load matching.
 
 
-* ***Backend & Data Engineering**
+*** **Backend & Data Engineering**
 * Built robust APIs with Django and FastAPI.
 * Implemented real-time ETL pipelines using Apache Kafka.
 * Managed Weaviate, Pinecone, and FAISS vector databases.
 
 
-* ***Cloud & DevOps**
+*** **Cloud & DevOps**
 * Architected AWS (SageMaker, Bedrock, EC2) and Azure infrastructure.
 * Automated workflows with CI/CD pipelines and Docker/Kubernetes.
 
 
-* ***Mobile Development**
+*** **Mobile Development**
 * Deployed cross-platform Flutter applications to App Store and Play Store.
 
 ---
