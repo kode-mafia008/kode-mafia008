@@ -30,6 +30,7 @@ I build **scalable AI-powered solutions** for startups and enterprises, focusing
 * Designed RAG pipelines using LangChain and LangGraph.
 * Integrated Hugging Face Transformers and OpenAI APIs.
 
+
 * **Custom AI Model Development**
 * Fine-tuned OpenChat 3.5 using LoRA and PyTorch.
 * Developed recommendation systems for intelligent load matching.
@@ -40,14 +41,15 @@ I build **scalable AI-powered solutions** for startups and enterprises, focusing
 * Implemented real-time ETL pipelines using Apache Kafka.
 * Managed Weaviate, Pinecone, and FAISS vector databases.
 
+
 * **Cloud & DevOps**
 * Architected AWS (SageMaker, Bedrock, EC2) and Azure infrastructure.
 * Automated workflows with CI/CD pipelines and Docker/Kubernetes.
 
+
 * **Mobile Development**
 * Deployed cross-platform Flutter applications to App Store and Play Store.
 
- 
 ---
 
 ## 🛠️ Tech Stack
@@ -57,9 +59,11 @@ I build **scalable AI-powered solutions** for startups and enterprises, focusing
 * Python, SQL, Dart, JavaScript, Bash 
 * PyTorch, TensorFlow, Scikit-Learn, SpaCy, NLTK 
 
+
 **AI & Frameworks**
 * LangChain, LangGraph, RAG, Agentic AI 
 * Django, FastAPI, Flask, React, NextJS, Flutter 
+
 
 **Cloud & Databases**
 * AWS, Microsoft Azure, GCP, Firebase 
