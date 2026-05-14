@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dharmendra Mehta (@kode-mafia008)
 
-🚀 **Full Stack AI/ML Engineer | Generative AI & Cloud Architect**
+🚀 **AI/ML Engineer | Cloud Architect**
 
 I specialize in building **production-grade AI ecosystems**. My expertise lies in bridging the gap between complex Machine Learning models and scalable software architecture, with a heavy focus on **Agentic AI, RAG pipelines, and LLM optimization**. 
 
