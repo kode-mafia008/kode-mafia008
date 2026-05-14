@@ -2,7 +2,7 @@
 
 🚀 AI/ML Engineer | Cloud Architect 
 
-I build **scalable AI-powered solutions** for startups and enterprises, focusing on **intelligent agents, LLM-driven systems, and production-grade applications**. With experience spanning from 2019 to the present , I bridge **AI, backend, and mobile development**  to deliver end-to-end solutions.
+I build **scalable AI-powered solutions** for startups and enterprises, focusing on **intelligent agents, LLM-driven systems, and production-grade applications**. I bridge **AI, backend, and mobile development**  to deliver end-to-end solutions.
 
 ---
 
