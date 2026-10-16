@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dharmendra Mehta (@kode-mafia008)
 
-🚀 ** AI Engineer | LLM Systems Architect | Backend & Cloud Engineer **
+🚀 **AI Engineer | LLM Systems Architect | Backend & Cloud Engineer**
 
 I architect and build **production-grade AI systems** that turn advanced AI research into scalable, reliable, and intelligent applications. My work focuses on **LLM-powered platforms, advanced RAG pipelines, semantic search, agentic workflows, and cloud-native microservices**.
 
