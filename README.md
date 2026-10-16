@@ -19,7 +19,7 @@ Currently, I'm leading AI engineering at Hexa Business, building enterprise-grad
 
 ---
 
-## 🌱 Currently Learning & Researching
+## 🌱 Currently Learning & Exploring
 
 - Advanced RAG architectures, retrieval optimization, and multilingual embedding models
 - LLM evaluation using retrieval and ranking metrics such as Precision@K, MRR, and NDCG
